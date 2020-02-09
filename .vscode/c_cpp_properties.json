@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "H:/C/_Deps/Include/**",
+                "H:/C/_Deps/Include/yak_libs/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "DEBUG",
+                "PBROSS_DEV",
+                "PBROSS_WIN32"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.22.27905/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": [
+                "H:/C/_Deps/Include/yak_libs/yak_defines.h"
+            ]
+        }
+    ],
+    "version": 4
+}
